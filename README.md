@@ -1,2 +1,2 @@
-# Soringproject
+# Springproject
 web spring 
